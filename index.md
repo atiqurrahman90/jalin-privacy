@@ -1,6 +1,6 @@
 # Jalin Privacy Policy
 
-Last updated: 12 November 2026
+Last updated: 13 November 2026
 
 Jalin is a keyboard for iPhone that types English, Malay and Indonesian, alone or mixed. This policy explains what Jalin does with what you type.
 
@@ -32,20 +32,21 @@ Sync across your iPhones is off until you turn it on in the Jalin app under Typi
 
 ## Full Access
 
-iOS asks whether to "Allow Full Access" for third-party keyboards. Jalin works without it. With Full Access on, Jalin can use haptic feedback, the clipboard features above, share settings between the keyboard and the app, and, only if you turn on Online tools, reach the provider you chose.
+iOS asks whether to "Allow Full Access" for third-party keyboards. Jalin works without it. With Full Access on, Jalin can use haptic feedback and key sounds, the clipboard features above, share settings between the keyboard and the app, and, if you turn on Online tools or GIFs, reach the provider you chose or KLIPY.
 
 ## Online tools
 
 Online tools are off until you turn them on in the Jalin app under Tools. They also need Full Access.
 
 - **What is sent.** Only when you tap an AI edit or Translate action: the text you selected or, with nothing selected, the paragraph before the cursor, up to 1,200 characters, with the instruction for the action you tapped (including your own Custom instruction). Nothing is sent while you type, and nothing at all while Online tools are off.
-- **To whom.** The provider you picked: Anthropic (Claude), or the OpenAI-compatible service you configured. GIF search is separate; see below.
+- **To whom.** The provider you picked: Anthropic (Claude), or the OpenAI-compatible service you configured. If you picked On device, the text is handled by Apple Intelligence on your iPhone and no network request is made for it. GIF search is separate; see below.
 - **What is not sent.** Your key is stored in the iPhone keychain and sent only to that provider. Jalin never sends the rest of your document, your contacts or your typing history.
+- **Test buttons.** In the Jalin app, the Test button for an Online tools key sends the word "ok" to that provider, and the Test button for a KLIPY key asks KLIPY for what is trending. They send nothing you typed.
 - **The provider's own policy.** What the provider does with the text it receives is covered by that provider's own privacy policy.
 
 ## GIF search
 
-GIF search is off until you turn on GIFs in the Jalin app under Tools › GIFs and add your KLIPY key; it also needs Full Access. Only the words you search are sent to KLIPY, and only while GIFs is on and you search in the keyboard's GIF panel (with no words typed, the panel asks KLIPY for what is trending, which sends no words). Jalin does not send KLIPY a customer ID; your key is kept in the iPhone keychain and sent only to KLIPY. The GIF you tap is downloaded from KLIPY and put on the clipboard so you can paste it; what KLIPY does with a search is covered by KLIPY's own privacy policy.
+GIF search is off until you turn on GIFs in the Jalin app under Tools › GIFs and add your KLIPY key; it also needs Full Access. Only the words you search are sent to KLIPY, and only while GIFs is on and you search in the keyboard's GIF panel or tap Test in the app (with no words typed, the panel asks KLIPY for what is trending, which sends no words). Jalin does not send KLIPY a customer ID; your key is kept in the iPhone keychain and sent only to KLIPY. The previews shown in the panel and the GIF you tap are downloaded from KLIPY, and the GIF you tap is put on the clipboard so you can paste it. As with any download, KLIPY's servers see your iPhone's IP address and Jalin's name and version; what KLIPY does with a search is covered by KLIPY's own privacy policy.
 
 ## Children
 
